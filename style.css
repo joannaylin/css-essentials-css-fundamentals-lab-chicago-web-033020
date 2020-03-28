@@ -33,6 +33,8 @@ section#featured-property {
   text-align: center
 }
 
-section#featured-property>p {
-  width: 800px
+section#featured-property>p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
 }
