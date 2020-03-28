@@ -23,3 +23,8 @@ nav > a {
 nav {
   text-align: center;
 }
+
+figcaption {
+  font-size: small;
+}
+  
